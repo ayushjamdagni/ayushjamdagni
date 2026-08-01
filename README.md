@@ -1,42 +1,50 @@
-[README (2).md](https://github.com/user-attachments/files/30622325/README.2.md)
 <div align="center">
 
+<!-- Animated Typing Heading -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=800&height=60&lines=Hi+there%2C+I'm+Ayush!+%F0%9F%91%8B;In+pursuit+of+elegant+solutions+to+fundamental+problems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=YO+THIS+IS+AYUSH+%E2%9C%8C%EF%B8%8F;2nd-Year+ENC+Student;Exploring+C%2B%2B,+Python+%26+Algorithms;Focused+on+DSA+%26+Problem+Solving" alt="Typing SVG" />
 </a>
 
-</div>
-
-<br>
+<br/>
+<br/>
 
 ### 🚀 About Me
+I am a 2nd-year Electronics and Computer Engineering student at Thapar Institute of Engineering and Technology. 
+I enjoy building foundational projects, ranging from **C++ logic exercises** to **Python-based image processing**. 
+Currently focused on mastering **Data Structures and Algorithms (DSA)** and optimizing code complexities.
 
-- 🎓&nbsp;&nbsp;**2nd-year** Electronics & Computer Engineering student at **Thapar Institute of Engineering & Technology**, Patiala
-- 🔭&nbsp;&nbsp;Currently deep into **Data Structures & Algorithms**
-- 💻&nbsp;&nbsp;Building things — from **C++ logic drills** to **Python-based image processing**
-- 🌱&nbsp;&nbsp;Chasing cleaner, faster code — one refactor at a time
-
-<br>
+<br/>
 
 ### 🛠️ Tech Stack & Tools
+<!-- Dynamic Language & Tool Icons -->
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,vscode" alt="My Skills" />
+  </a>
+</p>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,git,github,vscode&theme=dark" />
-</div>
-
-<br>
+<br/>
 
 ### 📈 GitHub Stats
+<!-- Auto-updating Stat Cards -->
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushjamdagni&show_icons=true&theme=radium" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushjamdagni&theme=radium" alt="GitHub Streak" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushjamdagni&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Ayush's GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushjamdagni&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="Ayush's Streak Stats" height="165"/>
-</div>
+<br/>
 
-<br>
+### 🐍 My Contributions
+<!-- Animated Snake (Powered by GitHub Actions) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayushjamdagni/ayushjamdagni/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayushjamdagni/ayushjamdagni/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ayushjamdagni/ayushjamdagni/output/github-contribution-grid-snake.svg">
+</picture>
 
-### 🐍 Contribution Snake
+<br/>
+<br/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ayushjamdagni/ayushjamdagni/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+*"Every expert was once a beginner."*
+
 </div>
