@@ -31,50 +31,18 @@
 
 <hr/>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Technologist.png" alt="Technologist" width="35" align="center" /> About Me
+### 👨‍💻 About Me
 
-<table border="0" cellpadding="0" cellspacing="5" style="border-collapse: collapse;">
-  <tr>
-    <td align="center" valign="top" width="40">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="30" />
-    </td>
-    <td valign="top">
-      <strong>Academics:</strong> 2nd-year Electronics and Computer Engineering (ENC) student at Thapar Institute of Engineering and Technology.
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="40">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30" />
-    </td>
-    <td valign="top">
-      <strong>Current Focus:</strong> Deep diving into <strong>Data Structures & Algorithms (DSA)</strong> and optimizing competitive programming logic.
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="40">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30" />
-    </td>
-    <td valign="top">
-      <strong>Projects:</strong> Building foundational repositories ranging from C++ core exercises to Python-based geometric shape detection.
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="40">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" width="30" />
-    </td>
-    <td valign="top">
-      <strong>Always Learning:</strong> Expanding my toolset across software development and hardware/engineering logic.
-    </td>
-  </tr>
-</table>
+* 🎓 **Academics:** 2nd-year Electronics and Computer Engineering (ENC) student at Thapar Institute of Engineering and Technology.
+* 💻 **Current Focus:** Deep diving into **Data Structures & Algorithms (DSA)** and optimizing competitive programming logic.
+* 🚀 **Projects:** Building foundational repositories ranging from C++ core exercises to Python-based geometric shape detection.
+* 🌱 **Always Learning:** Expanding my toolset across software development and hardware/engineering logic.
 
 <hr/>
 
 ### 🏆 GitHub Trophies
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ayushjamdagni&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=ayushjamdagni&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
 </div>
 
 <hr/>
@@ -97,7 +65,7 @@
 
 <hr/>
 
-### 🚀 Currently Learning / Activity Graph
+### 🚀 Activity Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushjamdagni&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" width="100%" />
 </div>
