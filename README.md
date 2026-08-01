@@ -1,3 +1,4 @@
+[snake.yml](https://github.com/user-attachments/files/30622164/snake.yml)
 [README.md](https://github.com/user-attachments/files/30622160/README.md)
 <div align="center">
 
@@ -40,5 +41,36 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/ayushjamdagni/ayushjamdagni/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs once a day at midnight UTC
+  workflow_dispatch: {}    # lets you trigger it manually from the Actions tab
+  push:
+    branches:
+      - main               # regenerates whenever you push to main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate snake SVG
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ayushjamdagni
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg
+
+      - name: Push snake SVG to the output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 </div>
