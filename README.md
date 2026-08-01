@@ -36,11 +36,8 @@
 
 <br>
 
-## 🐍 Contribution Snake
+[snake.yml](https://github.com/user-attachments/files/30622176/snake.yml)
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ayushjamdagni/ayushjamdagni/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
 name: Generate Snake Animation
 
 on:
@@ -72,5 +69,3 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-</div>
